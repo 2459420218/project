@@ -1,0 +1,36 @@
+
+
+
+.sousuo{
+    height: 110px;
+    background-color: #32c27d;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.shuru{
+    height: 75px;
+    width: 96%;
+    background-color: #2aae6e;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.shuru-a1{
+    height: 35px;
+    width: 40px;
+    background-image: url("../../image/sousuo02.svg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.shuru-a2{
+    height: 40px;
+    width: 100px;
+    font-size: 32px;
+    color: #e6fdef;
+    font-weight: 200;
+    line-height: 40px;
+    margin-left: 5px;
+}

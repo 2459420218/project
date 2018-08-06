@@ -1,0 +1,121 @@
+
+.music-title{
+    height: 80px;
+    background-color: #32c27d;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+
+/*菜单 开始*/
+.caidan{
+    height: 80px;
+    width: 100px;
+    background-image: url(../../image/caidan1.svg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 55%;
+    margin-left: 20px;
+}
+/*菜单 结束*/
+
+   /*动态菜单 开始*/
+
+
+   /*动态菜单 结束*/
+
+ /*导航开始*/
+.daohang{
+    height:60px;
+    width: 900px;
+    display: flex;
+    justify-content: center;
+}
+.my {
+   font-weight: 200;
+}
+.guan{
+    font-weight: 200;
+ }
+.find{
+    font-weight: 200;
+}
+.music-wenzi{
+    height: 60px;
+    width: 150px;
+    font-size: 35px;
+    line-height: 60px;
+    text-align: center;
+    color: #e6fdef;
+
+}
+
+/*导航结束*/
+
+/*加号开始*/
+
+.jiahao {
+    height: 80px;
+    width: 100px;
+    position: relative;
+
+}
+.jiahao-a{
+    margin-top: 15px;
+    margin-left: 15px;
+    height: 50px;
+    width: 50px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+/*加号结束*/
+
+/*加号动态 开始*/
+.sanjiao{
+    height: 30px;
+    width: 30px;
+    position: absolute;
+    background-color: #fdfdfe;
+    transform: rotate(45deg);
+    top: -16px;
+    left: 88%;
+    overflow: hidden;
+    border-top: darkgray 1px solid;
+    border-left: darkgray 1px solid;
+
+}
+.jiahao-b{
+    display: none;
+    height: 360px;
+    width: 450px;
+    background-color:white;
+    position: absolute;
+    top: 180px;
+    left: 53%;
+    border-radius: 10px;
+    border: darkgray 1px solid;
+
+}
+.box1{
+    height: 33%;
+    width: 100%;
+    display: flex;
+    box-shadow: darkgray 0px 1px;
+}
+
+.jiahao-image{
+    width: 30%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.jiahao-wenzi{
+    flex: 1;
+    font-size: 35px;
+    display: flex;
+    align-items: center;
+    margin-left: 20px;
+}
+/*加号动态 结束*/

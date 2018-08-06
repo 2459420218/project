@@ -1,0 +1,89 @@
+.gequ1{
+    left: 1;
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
+.gequ2{
+    left: 1;
+    width: 100%;
+    display: flex;
+    align-items: center;
+
+    margin-top: 20px;
+}
+
+.gequ-left1{
+    height: 220px;
+    width: 220px;
+    background-image: url(../../image/lijian.jpg);
+    background-position: center;
+    background-size: 100%;
+    margin-left: 50px;
+    background-repeat: no-repeat;
+}
+.gequ-left2 {
+    height: 220px;
+    width: 220px;
+    background-image: url(../../image/yundong.jpg);
+    background-position: center;
+    background-size: 100%;
+    margin-left: 50px;
+    background-repeat: no-repeat;
+}
+.gequ-left3{
+    height: 220px;
+    width: 220px;
+    background-image: url(../../image/erge.jpg);
+    background-position: center;
+    background-size: 100%;
+    margin-left: 50px;
+    background-repeat: no-repeat;
+}
+
+.gequ-center{
+    height: 100px;
+    flex: 1;
+    display: flex;
+    flex-flow: column;
+}
+.gequ-right{
+    height: 50px;
+    width: 50px;
+    margin-right: 90px;
+    background-image: url(../../image/jianhao.svg);
+    background-position: center;
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+.gequ-wenzi{
+    height: 50px;
+    width:  300px;
+    font-size: 32px;
+    line-height: 40px;
+    margin-left: 25px;
+    margin-top: 10px;
+}
+.gequ-tupian{
+    height: 50px;
+    width: 300px;
+    display: flex;
+    margin-left: 20px;
+}
+.tupian-left{
+    height: 50px;
+    width: 40px;
+    background-image: url(../../image/yuandui.jpg);
+    background-position: center;
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+.tupian-right{
+    height: 50px;
+    width: 300px;
+    line-height: 40px;
+    font-size: 25px;
+    color: darkgray;
+    margin-left: 10px;
+    margin-top: 8px;
+}

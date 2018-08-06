@@ -1,0 +1,47 @@
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.border{
+    border: red 1px solid;
+}
+
+
+
+li {
+    list-style: none;
+    float: left;
+}
+.lunbo {
+    margin:0px auto;
+    padding:0px auto;
+    width: 980px;
+    height: 350px;
+    overflow: hidden;
+}
+#photo {
+    width: 5880px;
+    height: 350px;
+    -webkit-animation: move 18s ease infinite alternate;
+    -o-animation: move 18s ease infinite alternate;
+    -ms-animation: move 18s ease infinite alternate;
+    -moz-animation: move 18s ease infinite alternate;
+    animation: move 18s ease infinite alternate;
+}
+img {
+    width: 980px;
+    height: 350px;
+}
+@-webkit-keyframes move {
+    0%, 15% {margin-left:0px;}
+    17%, 32% {margin-left:-980px;}
+    34%, 59% {margin-left:-1960px;}
+    61%, 76% {margin-left:-2940px;}
+    78%, 83% {margin-left:-3920px;}
+    85%, 100% {margin-left:-4900px;}
+}
+
+
+

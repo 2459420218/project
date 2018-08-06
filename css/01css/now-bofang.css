@@ -1,0 +1,61 @@
+
+
+
+
+.now-bofang{
+    height: 150px;
+    display: flex;
+    align-items: center;
+    box-shadow: darkgray 0px -1px;
+}
+.bofang-left{
+    height: 120px;
+    width: 120px;
+    background-image: url(../../image/zhuanji.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    margin-left: 40px;
+}
+.bofang-center{
+    height: 100px;
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    flex-flow: column;
+}
+.geming{
+    height: 40px;
+    width: 200px;
+    font-size: 30px;
+    line-height: 40px;
+    margin-left: 20px;
+}
+.zuozhe{
+    height: 40px;
+    width: 200px;
+    font-size: 25px;
+    line-height: 40px;
+    color: darkgray;
+    margin-left: 20px;
+}
+
+.bofang-right1{
+    height: 100px;
+    width: 100px;
+    background-image: url(../../image/jindu.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    margin-right: 30px;
+
+}
+.bofang-right2{
+    height: 100px;
+    width: 100px;
+    background-image: url(../../image/music.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 90%;
+    margin-right: 30px;
+}

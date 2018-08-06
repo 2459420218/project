@@ -1,0 +1,17 @@
+
+
+
+
+.find-name{
+    height: 100px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.find-name-mingzi{
+    height: 80px;
+    width: 18%;
+    font-size: 30px;
+    text-align: center;
+}

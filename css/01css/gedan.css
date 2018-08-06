@@ -1,0 +1,29 @@
+
+
+.gedan{
+    height: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.zijian{
+    height: 60px;
+    width: 300px;
+    text-align: center;
+    font-size: 30px;
+    line-height: 60px;
+}
+.shoucang{
+    height: 60px;
+    width: 300px;
+    text-align: center;
+    font-size: 30px;
+    color: darkgray;
+    line-height: 60px;
+}
+.xiexian{
+    height: 40px;
+    width: 2px;
+    background-color: darkgray;
+    transform: rotate(5deg);
+}

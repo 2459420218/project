@@ -1,0 +1,80 @@
+
+
+.xuanxiang{
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-flow: wrap;
+    background-color: #fdfdfe;
+}
+.xuanxianga{
+    height: 200px;
+    width: 31%;
+    display: flex;
+    flex-flow: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.image-01{
+    height: 120px;
+    width: 130px;
+    background-image: url(../../image/bendi.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    margin-top: 10px;
+}
+.image-02{
+    height: 120px;
+    width: 130px;
+    background-image: url(../../image/xiazai.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    margin-top: 10px;
+}
+.image-03{
+    height: 120px;
+    width: 130px;
+    background-image: url(../../image/zuijin.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    margin-top: 10px;
+}
+.image-04{
+    height: 120px;
+    width: 130px;
+    background-image: url(../../image/xihuan.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+
+}
+.image-05{
+    height: 120px;
+    width: 130px;
+    background-image: url(../../image/yigou.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    margin-top: 10px;
+}
+.image-06{
+    height: 120px;
+    width: 130px;
+    background-image: url(../../image/paobu.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    margin-top: 10px;
+}
+.image-wenzi{
+    height: 40px;
+    width: 180px;
+    text-align: center;
+    font-size: 30px;
+}
+.shuzi{
+    height: 40px;
+    width: 180px;
+    text-align: center;
+    font-size: 25px;
+    color: darkgray;
+}

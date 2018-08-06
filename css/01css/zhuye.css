@@ -1,0 +1,31 @@
+   *{
+       margin: 0px;
+       padding: 0px;
+   }
+
+
+   .zhuye {
+       height: 100%;
+       width: 100%;
+       position: fixed;
+       background-color: #fdfdfe;
+       display: flex;
+       flex-flow: column;
+       justify-content: space-between;
+   }
+   .border {
+       border: 1px solid red;
+   }
+   .xy-center{
+       display: flex;
+       flex-flow: column nowrap;
+   }
+   ::-webkit-scrollbar{
+       display: none;
+   }
+
+
+   .daceng{
+       flex: 1;
+       overflow: scroll;
+   }

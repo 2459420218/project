@@ -1,0 +1,114 @@
+
+
+.phone-title{
+    height: 80px;
+    display: flex;
+    justify-content: space-between;
+    background-color: #32c27d;
+
+}
+.title-wenzi{
+    font-size: 25px;
+    color: #e6fdef;
+    line-height: 40px;
+}
+/*时间 star*/
+#time{
+       height: 40px;
+    width: 70px;
+    margin: 5px;
+}
+/*时间 end*/
+
+/*信号开始*/
+
+#xinhao{
+    flex: 1;
+    display: flex;
+}
+
+#yidong{
+    height: 40px;
+    width: 100px;
+    margin: 5px;
+}
+#what{
+    height: 40px;
+    width: 40px;
+    margin: 5px;
+}
+#xinhao-a{
+     height: 35px;
+     width: 50px;
+     display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    padding: 5px;
+    margin-left: 10px;
+ }
+#xinhao-a1{
+    height: 10px;
+}
+#xinhao-a2{
+    height: 16px;
+}
+#xinhao-a3{
+    height: 22px;
+}
+#xinhao-a4{
+    height: 28px;
+    background-color:#e6fdef;
+}
+.tiaowen{
+    width: 8px;
+    background-color: #e6fdef;
+    border-radius: 2px 2px 2px 2px;
+}
+
+/*信号结束*/
+
+/*电池 star*/
+#dianliang {
+    flex: 1;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    margin-right: 10px;
+    margin-bottom: 20px;
+
+}
+
+#dianliang-a{
+    height: 40px;
+    width: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 1px 1px 1px 1px;
+}
+
+#dianliang-a1{
+    height: 25px;
+    width: 40px;
+    border: whitesmoke 1px solid;
+    display: flex;
+    align-items: left;
+}
+
+#dianliang-a2{
+    height: 15px;
+    width: 5px;
+    background-color: #e6fdef;
+    border-radius: 0px 1px 1px 0px;
+
+}
+
+#dianliang01 {
+    height: 23px;
+    width: 28px;
+    background-color: #e6fdef;
+    margin: 1px;
+
+}
+
+/*电池 end*/

@@ -1,0 +1,161 @@
+
+.zhongxin{
+    height: 330px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #fdfdfe;
+}
+.big-zhongxin{
+    height: 300px;
+    width: 98%;
+    background-color: white;
+    box-shadow: 0px 3px 2px gainsboro;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/*中心-left 开始*/
+
+.zhongxin-left{
+    height: 250px;
+    width: 476px;
+    display: flex;
+    flex-flow: wrap;
+    justify-content: center;
+    align-items: center;
+}
+.touxaing{
+    height: 110px;
+    width: 400px;
+}
+.touxiang-a{
+    height: 100px;
+    width: 100px;
+    margin-top: 10px;
+    margin-left: 235px;
+    background-image: url(../../image/touxiang.jpg);
+    background-position: center;
+    background-size: 100%;
+    background-repeat: no-repeat;
+
+}
+.zhongxin-wenzi{
+    height: 110px;
+    width: 400px;
+    display: flex;
+    flex-flow: wrap;
+    justify-content: center;
+    align-items: center;
+}
+.wenzi-top{
+    height: 50px;
+    width: 200px;
+    margin-left: 75px;
+    display: flex;
+}
+.top-left01{
+    height: 60px;
+    width: 60px;
+    background-image: url("../../image/zhongxin.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 120%;
+}
+.top-right01{
+    height: 35px;
+    width: 150px;
+    font-size: 30px;
+    line-height: 35px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.wenzi-bottom{
+    height: 35px;
+    width: 200px;
+    margin-left: 75px;
+    text-align: center;
+    font-size: 27px;
+    line-height: 35px;
+    color: darkgray;
+}
+
+/*中心-left 结束*/
+
+/*中心-center 开始*/
+.zhongxin-center{
+    height: 50px;
+    width: 2px;
+    background-color: darkgray;
+    margin-top: 120px;
+}
+/*中心-center 结束*/
+
+/*中心-right 开始*/
+
+.zhongxin-right{
+    height: 250px;
+    width: 476px;
+    display: flex;
+    flex-flow: wrap;
+    justify-content: center;
+    align-items: center;
+}
+.right-01{
+    height: 110px;
+    width: 400px;
+}
+.lvzuan{
+    height: 80px;
+    width: 80px;
+    margin-top: 20px;
+    margin-left: 80px;
+    background-image: url(../../image/lvzuan.jpg);
+    background-position: center;
+    background-size: 120%;
+    background-repeat: no-repeat;
+}
+.right-02{
+    height: 110px;
+    width: 400px;
+    display: flex;
+    flex-flow: wrap;
+    justify-content: center;
+    align-items: center;
+}
+.right-top{
+    height: 50px;
+    width: 200px;
+    margin-right: 50px;
+    display: flex;
+}
+.top-left02{
+    height: 70px;
+    width: 70px;
+    background-image: url(../../image/vipzuan.jpg);
+    background-position: center;
+    background-size: 105%;
+    background-repeat: no-repeat;
+    margin-right:15px;
+    margin-bottom: 10px;
+}
+.top-right02{
+    height: 35px;
+    width: 250px;
+    font-size: 30px;
+    line-height: 35px;
+    margin-right: 0px;
+    margin-top: 10px;
+}
+.right-battle{
+    height: 35px;
+    width: 400px;
+    margin-right: 10px;
+    text-align: center;
+    font-size: 27px;
+    line-height: 35px;
+    color: darkgray;
+}
+/*中心-right 结束*/

@@ -1,0 +1,18 @@
+
+
+
+.fenlei2{
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+
+}
+.fenlei2-wenzi{
+
+    height: 60px;
+    width: 18%;
+    font-size: 30px;
+    text-align: center;
+    margin-top: -100px;
+}

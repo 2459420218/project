@@ -1,0 +1,29 @@
+
+
+
+
+.tuijian{
+    flex: 1;
+}
+.tuijian-picture{
+    height: 300px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.tuijian-zi{
+    height: 100px;
+    display: flex;
+}
+.tuijian-wenzi{
+    height: 100px;
+    flex: 1;
+    font-size: 30px;
+}
+.now1{
+    height: 80px;
+    font-size: 30px;
+    line-height: 80px;
+    text-align: center;
+}
