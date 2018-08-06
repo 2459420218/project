@@ -17,9 +17,9 @@ $(function(){
     $(".find").click(function() {
         $(".daceng").load($(this).data("page"));
     })
-    $(".bofang-right1").click(function() {
-        $(".zhuye").load($(this).data("page"));
-    })
+    // $(".bofang-right1").click(function() {
+    //     $(".zhuye").load($(this).data("page"));
+    // })
     // $(".bofang").click(function() {
     //     $("#quanye").load($(this).data("page"));
     // })
