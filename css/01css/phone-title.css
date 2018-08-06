@@ -29,13 +29,14 @@
 
 #yidong{
     height: 40px;
-    width: 100px;
+    width: 200px;
     margin: 5px;
 }
 #what{
     height: 40px;
     width: 40px;
-    margin: 5px;
+    margin-top: 5px;
+    margin-left: -85px;
 }
 #xinhao-a{
      height: 35px;
